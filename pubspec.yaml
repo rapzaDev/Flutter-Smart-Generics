@@ -1,9 +1,9 @@
 name: flutter_smart_generics
 description: A collection of reusable generic utilities and widgets to boost productivity and scalability in Flutter development.
 version: 1.0.0
-homepage: https://github.com/rapzadev/flutter_smart_generics
-repository: https://github.com/rapzadev/flutter_smart_generics
-issue_tracker: https://github.com/rapzadev/flutter_smart_generics/issues
+homepage: https://github.com/rapzaDev/Flutter-Smart-Generics
+repository: https://github.com/rapzaDev/Flutter-Smart-Generics
+issue_tracker: https://github.com/rapzaDev/Flutter-Smart-Generics/issues
 
 environment:
   sdk: ">=3.1.0 <4.0.0"
